@@ -1,0 +1,22 @@
+/* Template stylesheet, modify to obtain your desired appearance */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#email-subject h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#email-date h2 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    color: #808080; /* Light gray */
+}
+
+#email-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}

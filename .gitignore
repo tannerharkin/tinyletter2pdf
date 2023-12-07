@@ -1,0 +1,7 @@
+# Ignore directories
+images/
+pdfs/
+
+# Ignore specific file types
+*.csv
+merged_emails.pdf
